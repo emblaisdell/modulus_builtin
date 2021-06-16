@@ -1,0 +1,7 @@
+{
+    "id":3,
+    "name":"Data Type",
+    "pattern":"data type %d",
+    "wildcard":"data type",
+    "priority":100
+}

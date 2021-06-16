@@ -1,0 +1,7 @@
+{
+    "id":2,
+    "name":"Module Type",
+    "pattern":"module type %d",
+    "wildcard":"module type",
+    "priority":100
+}

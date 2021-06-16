@@ -1,0 +1,8 @@
+{
+    "id":5,
+    "name":"Strong Transformation",
+    "params":["to","from"],
+    "pattern":"$to looks like $from",
+    "associativity":"right",
+    "priority":100
+}

@@ -1,0 +1,8 @@
+{
+    "id":1,
+    "name":"Module Notation",
+    "params":["name","pattern","associativity","priority"],
+    "pattern":"module notation { name = $name , pattern = $pattern , associativity = $associativity , priority = $priority }",
+    "associativity":"right",
+    "priority":100
+}

@@ -1,0 +1,7 @@
+{
+    "id":0,
+    "name":"Text",
+    "pattern":"\" %s \"",
+    "wildcard":"text",
+    "priority":100
+}

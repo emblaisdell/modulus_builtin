@@ -1,0 +1,8 @@
+{
+    "id":0,
+    "name":"Action",
+    "params":["action","argument"],
+    "pattern":"do $action with $argument",
+    "associativity":"right",
+    "priority":100
+}

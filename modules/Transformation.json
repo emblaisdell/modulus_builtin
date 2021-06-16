@@ -1,0 +1,8 @@
+{
+    "id":6,
+    "name":"Transformation",
+    "params":[],
+    "pattern":"transformation",
+    "associativity":"right",
+    "priority":100
+}

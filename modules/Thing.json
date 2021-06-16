@@ -1,0 +1,8 @@
+{
+    "id":3,
+    "name":"Thing",
+    "params":[],
+    "pattern":"thing",
+    "associativity":"right",
+    "priority":100
+}
