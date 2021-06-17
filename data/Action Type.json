@@ -1,7 +1,0 @@
-{
-    "id":1,
-    "name":"Action Type",
-    "pattern":"action %d",
-    "wildcard":"action",
-    "priority":100
-}

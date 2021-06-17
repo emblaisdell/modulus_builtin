@@ -2,7 +2,5 @@
     "id":4,
     "name":"Weak Transformation",
     "params":["to","from"],
-    "pattern":"$to is $from",
-    "associativity":"right",
-    "priority":100
+    "pattern":"$to is $from"
 }

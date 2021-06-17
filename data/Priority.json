@@ -1,7 +1,0 @@
-{
-    "id":4,
-    "name":"Priority",
-    "pattern":"priority %d",
-    "wildcard":"priority",
-    "priority":100
-}

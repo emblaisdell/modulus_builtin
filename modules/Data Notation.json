@@ -1,8 +1,0 @@
-{
-    "id":2,
-    "name":"Data Notation",
-    "params":["name","pattern","wildcard","priority"],
-    "pattern":"data notation { name = $name , pattern = $pattern , wildcard = $wildcard , priority = $priority }",
-    "associativity":"right",
-    "priority":100
-}
